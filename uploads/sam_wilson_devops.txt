@@ -1,0 +1,24 @@
+SAM WILSON
+DevOps Engineer
+Austin, TX | (555) 456-7890 | sam.wilson@email.com
+
+TECHNICAL EXPERTISE
+- CI/CD: Jenkins, GitHub Actions
+- Cloud: AWS, Azure, GCP
+- Containerization: Docker, Kubernetes
+- Infrastructure as Code: Terraform, Ansible
+- Monitoring: Prometheus, Grafana
+
+PROFESSIONAL EXPERIENCE
+DevOps Engineer | CloudScale | 2018-Present
+- Automated deployment processes reducing errors by 70%
+- Managed Kubernetes clusters serving 10M+ requests/day
+- Implemented security protocols achieving SOC2 compliance
+
+Systems Administrator | TechSolutions | 2015-2018
+- Maintained 99.99% uptime for critical services
+- Migrated on-premise systems to AWS
+
+CERTIFICATIONS
+- AWS Certified DevOps Engineer
+- Certified Kubernetes Administrator

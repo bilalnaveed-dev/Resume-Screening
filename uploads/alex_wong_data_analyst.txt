@@ -1,0 +1,32 @@
+Alex Wong
+Chicago, IL | (555) 123-4567 | alex.wong@email.com | linkedin.com/in/alexwong
+
+DATA ANALYST
+SQL expert with 4 years experience transforming data into business insights
+
+TECHNICAL SKILLS
+- SQL (PostgreSQL, MySQL)
+- Python (Pandas, NumPy)
+- Tableau/PowerBI
+- Excel/Google Sheets
+- Statistical Analysis
+- ETL Processes
+
+EXPERIENCE
+Data Analyst | FinTech Solutions | 2020-Present
+- Built dashboards reducing reporting time by 60%
+- Developed predictive model for customer churn (85% accuracy)
+- Automated 15+ manual reports using Python
+
+Business Analyst | RetailMetrics | 2018-2020
+- Analyzed sales data identifying $500k cost savings
+- Created inventory optimization models
+
+EDUCATION
+B.S. Statistics | University of Chicago | 2018
+- Minor in Computer Science
+- GPA: 3.7/4.0
+
+CERTIFICATIONS
+- Google Data Analytics Certificate
+- Tableau Desktop Certified
